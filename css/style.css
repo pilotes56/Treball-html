@@ -1,0 +1,56 @@
+img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;
+  }
+    h1 {
+      color: blue;
+    }
+
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: inline;
+      color: red;
+    }
+
+    nav li {
+      display: inline;
+      margin-right: 10px;
+      color: red;
+    }
+
+    h3{
+      color:black
+    }
+
+
+    h4 {
+ 
+        color: black;
+    }
+
+    nav a:hover {
+      background-color:orange;
+      padding: 0px;
+      border-radius: 7px;
+    }
+
+    hr {
+      border: 0.5px solid black ;
+      width: 100%;
+      margin: 20px auto;
+    }
+
+    p.center-text {
+      text-align: center;
+      color: black;
+    }
+    a {
+      color: red;
+      
+    }
+   
