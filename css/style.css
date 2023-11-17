@@ -2,7 +2,7 @@ img {
     width: 200px;
     height: 200px;
     margin-right: 20px;
-    float: below;
+    float: upper up ;
   }
     h1 {
       color: blue;
